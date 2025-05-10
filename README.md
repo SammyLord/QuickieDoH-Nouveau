@@ -1,4 +1,4 @@
-# QuickieDoH Nouveau
+# :+1: QuickieDoH Nouveau
 
 ***Original by peridoqia.***
 
