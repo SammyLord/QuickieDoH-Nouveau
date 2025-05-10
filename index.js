@@ -24,5 +24,3 @@ app.listen(port, () => {
     console.log(`[INFO] Quickie DoH will forward DoH requests to ${dns_server}`);
     console.log(`[INFO] Quickie DoH is ready to receive requests at http://127.0.0.1:${port}/dns-query`);
 });
-
-// MIKU MIKU BEAM!!!!!
