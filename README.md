@@ -20,7 +20,7 @@ This is bad for two reasons!
 1. We should be allowed to visit whatever site we want to, it's the open net and censoring it is UNACCEPTABLE!!!
 2. Forcing DNS requests through one centralized server is a privacy hazard, and it lets the network operator track your internet activity!
 
-We remedy this solution by using DoH, DoH blends in with normal HTTPS traffic so you can use it as a DNS server and you will be free from blocks and private.
+We remedy this solution by using DoH, DoH blends in with normal HTTPS traffic so you can use it as a DNS server and you will be private and free from blocks.
 
 But there is an issue, DoH hostnames are often public, and that means network administrators can just block them. So... this is where QuickieDoH comes in!
 
